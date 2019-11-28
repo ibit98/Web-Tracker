@@ -3,20 +3,20 @@ An Web Extension to View & Control Web Activity (Remote & Locally)
 
 Steps to implement the Application
 
-# Download or Clone the Repository and then Extract
+ Download or Clone the Repository and then Extract
 
-# Open Web Browser
+ Open Web Browser
 
-# Enable Developer Mode
+ Enable Developer Mode
 
-# Click on Load Extension
+ Click on Load Extension
 
-# Select 'ext' folder inside the repository
+ Select 'ext' folder inside the repository
 
-# Load the extension
+ Load the extension
 
-# Click on the Extension icon in your Browser
+ Click on the Extension icon in your Browser
 
-# Follow prompted instructions
+ Follow prompted instructions
 
-# And the you are good to go !
+ And the you are good to go !
